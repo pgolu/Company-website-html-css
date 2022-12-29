@@ -1,0 +1,7 @@
+steps to create a 3d scroling website 
+
+1) create one section in index.html file inside the section create one div with class content-box 
+2) now come to css and write css properties for content-box 
+then write the css properties like background image background position background size  width and heigth 
+3) now create one div with the class name of menu inside that paste one image which is logo or company name
+now write the css properties of .menu class write display inline flex
